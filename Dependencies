@@ -1,0 +1,22 @@
+Ide:
+Arduino IDE v2
+
+Libs:
+AdaFruit BusIO
+Adafruit GFX Library
+Adafruit SH110X
+Adafruit SSD1306
+Arduino_SpiNINA
+U2g2
+
+ArduinoNANO
+Battery: 18650 Li-ion cell (3.7V) (Optional) (can be 2 if you want long duration)
+Screen DST-013
+Buzzer (optional)
+2 Buttons
+
+Wires:
+SCREEN: A4 -> SDA, A5 -> SCK, 5V -> VDD, GND -> GND
+Buzzer: D9 -> Buzzer+, GND -> Buzzer GND
+Button 1: D3 -> any button side GND -> negative from  D3 side
+Button 2; D2 -> any second button side GND -> negative from D2 side
